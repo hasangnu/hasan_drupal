@@ -1,0 +1,59 @@
+name: Hasan Drupal Profile
+type: profile
+description: 'Hasan Drupal Profile'
+core_version_requirement: '^8.8 || ^9'
+version: VERSION
+install:
+  - node
+  - history
+  - block
+  - breakpoint
+  - ckeditor
+  - color
+  - config
+  - contextual
+  - contact
+  - menu_link_content
+  - datetime
+  - block_content
+  - editor
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - big_pipe
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - tour
+  - automated_cron
+  - entity_print
+  - entity_print_views
+  - ctools
+  - token
+  - webform
+  - webform_ui
+  - webform_options_custom
+  - webform_entity_print
+  - webform_entity_print_attachment
+  - webform_image_select
+  - webform_options_limit
+  - webform_scheduled_email
+  - honeypot
+  - metatag
+  - pathauto
+  - smtp
+  - mailsystem
+themes:
+  - bartik
+  - seven
