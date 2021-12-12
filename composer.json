@@ -1,6 +1,6 @@
 {
     "name": "hasangnu/hasan_drupal",
-    "description": "Droopler installation profile for Drupal 8/9.",
+    "description": "Profile for Drupal 8/9.",
     "type": "drupal-profile",
     "license": "GPL-2.0+",
     "authors": [
