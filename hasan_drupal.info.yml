@@ -1,8 +1,6 @@
 name: Hasan Drupal Profile
 type: profile
 description: 'Hasan Drupal Profile'
-core_version_requirement: '^8.8 || ^9 || ^10'
-version: VERSION
 install:
   - node
   - history
